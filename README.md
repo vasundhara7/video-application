@@ -1,3 +1,6 @@
+## App Overview
+A simple application that renders top five search results from YouTube and the fetched videos can be played in the browser.
+You can view this site [here](https://video-app.netlify.app/).<br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
